@@ -1,0 +1,22 @@
+function iframe() {
+  document.getElementById("iframe");
+  {
+    var iframe = "iframe";
+    var onload = "onload";
+    window.onload,
+      (iframe =
+        "https://www.youtube.com/watch?v=0_uL1eTDYbo&amp;list=PL3UT3CjfPp4TTzX_LyfjGV9oMaPOUXJ2y&amp;index=2&amp;t=0s");
+    {
+      document.body.iframe.href =
+        "https://www.youtube.com/watch?v=0_uL1eTDYbo&amp;list=PL3UT3CjfPp4TTzX_LyfjGV9oMaPOUXJ2y&amp;index=2&amp;t=0s";
+      {
+        body.iframe.href =
+          "https://www.youtube.com/watch?v=0_uL1eTDYbo&amp;list=PL3UT3CjfPp4TTzX_LyfjGV9oMaPOUXJ2y&amp;index=2&amp;t=0s";
+      }
+      document.body.iframe.src = "https://www.youtube.com/embed/0_uL1eTDYbo";
+      {
+        body.iframe.src = "https://www.youtube.com/embed/0_uL1eTDYbo";
+      }
+    }
+  }
+}
