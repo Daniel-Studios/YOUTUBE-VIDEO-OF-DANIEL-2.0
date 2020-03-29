@@ -1,0 +1,51 @@
+body {
+  border: 1;
+  font-weight: inherit;
+  border-color: #000000;
+  background-color: #000000;
+  background: rgb(0, 0, 0), #000000;
+}
+
+a {
+  cursor: hand;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+p {
+  border: 1;
+  font-weight: bold;
+  text-align: center;
+  background: rgb(192, 192, 192), #c0c0c0;
+  border-color: #c0c0c0;
+  background-color: #c0c0c0;
+}
+
+img {
+  border: 1;
+  cursor: hand;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: bold;
+  border-color: #000000;
+}
+
+.header {
+  border: 1;
+  font-weight: bold;
+  text-align: center;
+  background: rgb(192, 192, 192), #c0c0c0;
+  border-color: #c0c0c0;
+  background-color: #c0c0c0;
+}
+
+#header {
+  border: 1;
+  font-weight: bold;
+  background: rgb(192, 192, 192), #c0c0c0;
+  border-color: #c0c0c0;
+  background-color: #c0c0c0;
+}
